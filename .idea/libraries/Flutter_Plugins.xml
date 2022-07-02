@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-0.4.2+10" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_ml_vision-0.6.0+2" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+8" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/camera-0.5.8+17" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bluetooth_serial-0.2.2" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/imei_plugin-1.2.0" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.0+4" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tts-1.0.0" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/tflite-1.1.2" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.0.0" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.28" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/tflite_flutter-0.4.2" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/platform_device_id-0.0.1" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.1" />
+      <root url="file://$PROJECT_DIR$/../../../../Master/Installed/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_qr_reader-1.0.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
